@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library App
 
 A modern library management application built with Next.js, TypeScript, and Tailwind CSS.
@@ -98,3 +99,7 @@ This is a frontend-only implementation with sample data. To make it a full appli
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# Library-front
+repository for the front dev of our library app
+>>>>>>> 1faa575b9c416a4d176f24418afa0a95b97ab4d5
